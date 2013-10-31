@@ -1,0 +1,10 @@
+
+
+Host gitlab.leona-fb.com
+  Hostname gitlab.leona-fb.com
+  IdentityFile ~/.ssh/github_rsa
+
+$ git config --global user.name "kawacafe"
+$ git config --global user.email kawauchiari@firstserver.co.jp
+
+
